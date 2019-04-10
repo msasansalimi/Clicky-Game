@@ -1,0 +1,27 @@
+body {
+  background-color:#ffff00;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.navbar {
+  
+  position: fixed;
+  padding: 1%;
+  width: 1110px;
+  display: inline-block;
+  background: #5133a4;
+  color: #fff;
+  font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+  z-index: 99;
+  white-space: nowrap;
+  
+}
+
+a {
+ color: red;
+}
+
+
+
+
