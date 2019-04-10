@@ -6,6 +6,8 @@
 
 #### Each image listen for click events and the app keep track of the user`s score, which increments by one point with the first time click. On each click, the images rendered to the page shuffle themseleves in a random order. As well double clicking on the same image consider as a wrong guess which reset the score to 0.
 
+You can visit and try this game [Here!](https://musing-varahamihira-99c7ed.netlify.com/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
